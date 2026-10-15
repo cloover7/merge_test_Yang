@@ -21,7 +21,7 @@ print("Subset has", len(subset), "rows.")
 ```
 
 ```{python}
-
+print('hello world')
 ```
 
 woifjsdlfksjdl
